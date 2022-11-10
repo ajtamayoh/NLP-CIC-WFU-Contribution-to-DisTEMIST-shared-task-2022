@@ -10,7 +10,9 @@ Alexander Gelbulkh (gelbukh@gelbukh.com)
 
 For bugs or questions related to the code, do not hesitate to contact us (Antonio Tamayo: ajtamayoh@gmail.com)
 
-If you use this code please cite our work: comming soon.
+If you use this code please cite our work:
+
+Tamayo, A., Burgos, D. A., & Gelbukh, A. (2022). mbert and simple post-processing: A baseline for disease mention detection in spanish. In Working Notes of Conference and Labs of the Evaluation (CLEF) Forum. CEUR Workshop Proceedings.
 
 ## Abstract
 
